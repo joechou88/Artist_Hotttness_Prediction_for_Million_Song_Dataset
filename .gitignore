@@ -3,6 +3,7 @@
 *.h5
 *.arff
 *.pkl
+*.png
 
 *.pyc
 /examples
